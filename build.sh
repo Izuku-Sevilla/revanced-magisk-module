@@ -4,8 +4,8 @@ set -euo pipefail
 
 source utils.sh
 
-YT_PATCHER_ARGS="-e microg-support -e swipe-controls"
-MUSIC_PATCHER_ARGS="-e microg-support"
+YT_PATCHER_ARGS="-e microg-support -e swipe-controls -e sponsorblock -e hide-cast-button -e custom-branding -e enable-wide-searchbar -e hide-shorts-button -e disable-create-button -e amoled -e enable-debugging -e autorepeat-by-default"
+MUSIC_PATCHER_ARGS="-e microg-support -e compact-header"
 
 BUILD_YT=false
 BUILD_MUSIC=false
