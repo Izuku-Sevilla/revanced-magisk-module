@@ -1,6 +1,6 @@
 {
-  "version": "v17.27.39",
-  "versionCode": 20220720,
-  "zipUrl": "https://github.com/RodrigoSevillano/revanced-magisk-module/releases/download/20220720/yt-revanced-magisk-v17.27.39-all.zip",
-  "changelog": "https://raw.githubusercontent.com/RodrigoSevillano/revanced-magisk-module/update/latest_build.log"
+  "version": "v17.29.34 ",
+  "versionCode": 20220721,
+  "zipUrl": "https://github.com/RodrigoSevillano/revanced-magisk-module/releases/download/20220721/youtube-revanced-magisk-v17.29.34-all.zip",
+  "changelog": "https://raw.githubusercontent.com/RodrigoSevillano/revanced-magisk-module/update/latest_build.md"
 }
