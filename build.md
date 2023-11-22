@@ -1,20 +1,22 @@
 CLI: revanced-cli-4.1.0-all.jar  
 Integrations: revanced-integrations-0.123.0-v0.123.0.apk  
-Patches: revanced-patches-2.199.0.jar  
+Patches: revanced-patches-2.200.0.jar  
 
-### [2.199.0](https://github.com/ReVanced/revanced-patches/compare/v2.198.0...v2.199.0) (2023-11-20)
+### [2.200.0](https://github.com/ReVanced/revanced-patches/compare/v2.199.0...v2.200.0) (2023-11-22)
 ### Bug Fixes
-* **Twitch - Settings:** Constrain to last working version ([941c1dd](https://github.com/ReVanced/revanced-patches/commit/941c1dd5cf9f43b4f6d023eacd6cfb31d87c2cd3))
-* **YouTube - Settings:** Remove unnecessary punctuation ([#3301](https://github.com/ReVanced/revanced-patches/issues/3301)) ([c50ee82](https://github.com/ReVanced/revanced-patches/commit/c50ee8281f2b90a2721839047bdc8cd59c4c913a))
-* **Yuka - Unlock premium:** Constrain to last working version ([81900fb](https://github.com/ReVanced/revanced-patches/commit/81900fb8db79284f57b5fd9e9ee0fe97cc0e7451))
+* **Spotify - Custom theme:** Add more background surfaces coloring options ([#3285](https://github.com/ReVanced/revanced-patches/issues/3285)) ([869ec26](https://github.com/ReVanced/revanced-patches/commit/869ec26966f7750c45355ac0acc18b81a2abce87))
+* **YouTube - Remove tracking query parameter:** Sanitize shared URLs in remaining places ([2442902](https://github.com/ReVanced/revanced-patches/commit/2442902dacc25f2c932a6689e9788e5a02fdff6b))
 ### Features
-* **YouTube:** Add `Disable rolling number animations` patch ([#3298](https://github.com/ReVanced/revanced-patches/issues/3298)) ([a0121ae](https://github.com/ReVanced/revanced-patches/commit/a0121ae7b60de88f0f2113ad0cefdb538f370780))
+* **Twitch:** Constrain patches to versions known to work ([65b55a5](https://github.com/ReVanced/revanced-patches/commit/65b55a5189df52dc7e99b7e9c68b908fbca92434))
+* **Twitch:** Support version `16.9.1` ([c70e4a6](https://github.com/ReVanced/revanced-patches/commit/c70e4a66bd65b42db88dcabd412ec985226bd1e7))
 
   
 **App Versions:**  
-Reddit: 2023.45.0  
+YouTube: 18.45.41  
 Twitter: 10.16.0-release.0  
-Twitch: 17.2.0  
+Reddit: 2023.45.0  
+Music (arm64-v8a): 6.28.52  
+TikTok: 27.0.3  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
